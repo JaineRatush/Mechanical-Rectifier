@@ -9,7 +9,7 @@ A project that converts non-uniform input to a constant rotational output. My te
 - Analyze output and create a technical report concluding the Mechanical Rectifier.
 
 ## Contributions
-- Modeled the [exploded](CAD/RectifierAssembly.png) and [unexploded CAD assembly](CAD/RectifierExploded.png).
+- Modeled the [exploded](CAD/RectifierExploded.png) and [unexploded CAD assembly](CAD/RectifierAssembly.png).
 - Designed the base, cup, and base-to-cup connection of the [fluid rotation system](FluidSubsystem.png).
 - Designed pulleys with connectors to gears.
 - Designed the centrifugal governor legs and spline/linear bearing connector.
