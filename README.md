@@ -21,3 +21,4 @@ A project that converts non-uniform input to a constant rotational output. My te
 - Organized a bill of materials.[Pg 26](Documentation/MechanicalRectifier_AnalysisAssemblySection.pdf)  
   [Final Iteration & Results](CAD/Results.png)
  
+Contributors: Hannah M., Zara B., Ryan L. , Jaine R. 
