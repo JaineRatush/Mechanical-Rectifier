@@ -10,6 +10,7 @@ A project that converts non-uniform input to a constant rotational output. My te
 ## Contributions:  
 - Modeled the exploded and unexploded CAD assembly
 - Designed the base, cup, and base->cup connection of the fluid rotation system
+- Designed pulleys with connectors to gears
 - Designed the centrifugal governor legs and spline/linear bearing connector
 - Created subsystem flow charts to display each component relations
 - Organized a bill of materials
