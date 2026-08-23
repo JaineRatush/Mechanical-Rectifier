@@ -3,7 +3,8 @@ A project that converts non-uniform input to a constant rotational output. My te
 <div align="center">
   <img src="CAD/RectifierAssembly.png" width="45%">
   <img src="Documentation/FinalMERectifier.png" width="45%">
-</div>
+</div> 
+
 ## Purpose & Requirements
 - Prototype and design a mechanical system that can convert random sinusoidal motion to constant rotational motion.
 - Connect components together using tolerances, whilst limiting the use of fasteners and eliminating the use of glue.
