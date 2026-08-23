@@ -13,7 +13,7 @@ A project that converts non-uniform input to a constant rotational output. My te
 - Designed the base, cup, and base-to-cup connection of the [fluid rotation system](FluidSubsystem.png).
 - Designed pulleys with connectors to gears.
 - Designed the centrifugal governor legs and spline/linear bearing connector.
-- Created subsystem flow charts to display each component's relations.
-- Organized a bill of materials.
-  [Final Iteration & Results: ](CAD/Results.png)
+- Created subsystem flow charts to display each component's relations.(Pgs 22-25)[Documentation/MechanicalRectifier_AnalysisAssemblySection.pdf]
+- Organized a bill of materials.(Pg 26)[Documentation/MechanicalRectifier_AnalysisAssemblySection.pdf]  
+  [Final Iteration & Results](CAD/Results.png)
  
